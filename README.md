@@ -4,5 +4,5 @@ Essa nota técnica em que fui um dos autores, realizada em 2019 em convênio de 
 
 ![exemplo](https://github.com/melojec/estimativa-populacional-slz-ma/blob/main/EstPop/TxGeomdasCapitais.PNG)
 
-A [nota técnica](https://diie.com.br/wp-content/uploads/2019/09/nota_tecnica_2019-4_ESTIMATIVA_POP_IBGE_2019.pdf),realizada em Setembro de 2019, pode ser encontrada no 
+A [nota técnica](https://diie.com.br/wp-content/uploads/2019/09/nota_tecnica_2019-4_ESTIMATIVA_POP_IBGE_2019.pdf), realizada em Setembro de 2019, pode ser encontrada no 
 [site do DIIE](https://diie.com.br/).
