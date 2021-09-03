@@ -1,6 +1,6 @@
 # Estimativa Populacional dos Municípios Brasileiros em 2019, segundo o IBGE.
 
-Essa nota técnica em que fui um dos autores, realizada em 2019 em convênio de estágio com a Secretaria Municipal de Planejamento de São Luís pelo Departamento de Informação e Inteligência Econômica, visa apresentar o comportamento da população brasileira no ano de 2019 em diferentes escalas regionais, comparando principalmente São Luís com os outros municípios do país. 
+Essa [nota técnica](https://diie.com.br/wp-content/uploads/2019/09/nota_tecnica_2019-4_ESTIMATIVA_POP_IBGE_2019.pdf) em que fui um dos autores, realizada em 2019 em convênio de estágio com a Secretaria Municipal de Planejamento de São Luís pelo Departamento de Informação e Inteligência Econômica, visa apresentar o comportamento da população brasileira no ano de 2019 em diferentes escalas regionais, comparando principalmente São Luís com os outros municípios do país. 
 Alguns dos pontos elaborados nesse nesse estudo foram os 20 municípios mais populosos de do Brasil (São Luís sendo o 15º município mais populoso, com 1.101.884 habitantes em 2019), mostrado no gráfico abaixo:
 
 ![exemplo](https://github.com/melojec/estimativa-populacional-slz-ma/blob/main/EstPop/CidadesMaisPopulosas.png)
